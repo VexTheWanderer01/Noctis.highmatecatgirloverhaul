@@ -9,3 +9,5 @@ Probably. I don't personally use it.
 Yes. I personally use one.
 <li>1.6?</li>
 Now.
+<li>License?</li>
+Public Domain.
