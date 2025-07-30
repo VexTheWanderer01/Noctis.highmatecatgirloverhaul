@@ -1,5 +1,5 @@
 # Noctis's Highmate Overhaul
-Adds genes from catgirl overhaul to highmates. Updated to 1.6
+Adds genes from catgirl overhaul to highmates.
 <p><b>Q&A</b>:</p>
 <li>Why?</li>
 <s>As a joke, mostly.</s> Randy threatened me with 5 manhunting cats.
