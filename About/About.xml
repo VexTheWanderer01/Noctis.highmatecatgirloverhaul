@@ -14,9 +14,6 @@
       <displayName>More Catgirl Genes</displayName>
       <steamWorkshopUrl>steam://url/CommunityFilePage/3347135065</steamWorkshopUrl>
     </li>
-    <li>
-
-    </li>
   <li>
       <packageId>Dubwise.DubsBadHygiene</packageId>
       <displayName>Dubs Bad Hygiene</displayName>
@@ -32,3 +29,4 @@
 </loadAfter>
 
 </ModMetaData>
+
