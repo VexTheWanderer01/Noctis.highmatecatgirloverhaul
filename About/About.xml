@@ -15,12 +15,20 @@
       <steamWorkshopUrl>steam://url/CommunityFilePage/3347135065</steamWorkshopUrl>
     </li>
     <li>
+
+    </li>
+  <li>
       <packageId>Dubwise.DubsBadHygiene</packageId>
       <displayName>Dubs Bad Hygiene</displayName>
       <steamWorkshopUrl>steam://url/CommunityFilePage/836308268</steamWorkshopUrl>
-    </li>
+    <alternativePackageIds IgnoreIfNoMatchingField="True">
+      <li>Dubwise.DubsBadHygiene.Lite</li>
+    </alternativePackageIds>
+  </li>
+</modDependencies>
   </modDependencies>
 <loadAfter>
   <li>vanillaracesexpanded.highmate</li>
 </loadAfter>
+
 </ModMetaData>
