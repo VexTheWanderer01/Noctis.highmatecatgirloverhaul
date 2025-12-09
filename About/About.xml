@@ -14,19 +14,18 @@
       <displayName>More Catgirl Genes</displayName>
       <steamWorkshopUrl>steam://url/CommunityFilePage/3347135065</steamWorkshopUrl>
     </li>
-  <li>
+    <li>
       <packageId>Dubwise.DubsBadHygiene</packageId>
       <displayName>Dubs Bad Hygiene</displayName>
       <steamWorkshopUrl>steam://url/CommunityFilePage/836308268</steamWorkshopUrl>
     <alternativePackageIds IgnoreIfNoMatchingField="True">
       <li>Dubwise.DubsBadHygiene.Lite</li>
     </alternativePackageIds>
-  </li>
-</modDependencies>
+    </li>
   </modDependencies>
 <loadAfter>
-  <li>vanillaracesexpanded.highmate</li>
+    <li>Dubwise.DubsBadHygiene</li>
+    <li>Dubwise.DubsBadHygiene.Lite</li>
+    <li>vanillaracesexpanded.highmate</li>
 </loadAfter>
-
 </ModMetaData>
-
